@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\Hoang\\UnrealProjects\\SimpleShooter_5_1\\Source\\SimpleShooter_5_1\\SimpleShooter_5_1.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Hoang\\UnrealProjects\\SimpleShooter_5_1\\.vscode\\compileCommands_SimpleShooter_5_1\\SimpleShooter_5_1.255.rsp"
+		],
+		"directory": "E:\\Hoang\\Unreal\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Hoang\\UnrealProjects\\SimpleShooter_5_1\\Source\\SimpleShooter_5_1\\SimpleShooter_5_1.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Hoang\\UnrealProjects\\SimpleShooter_5_1\\.vscode\\compileCommands_SimpleShooter_5_1\\SimpleShooter_5_1.255.rsp"
+		],
+		"directory": "E:\\Hoang\\Unreal\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Hoang\\UnrealProjects\\SimpleShooter_5_1\\Source\\SimpleShooter_5_1\\SimpleShooter_5_1.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Hoang\\UnrealProjects\\SimpleShooter_5_1\\.vscode\\compileCommands_SimpleShooter_5_1\\SimpleShooter_5_1.255.rsp"
+		],
+		"directory": "E:\\Hoang\\Unreal\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Hoang\\UnrealProjects\\SimpleShooter_5_1\\Source\\SimpleShooter_5_1\\SimpleShooter_5_1GameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Hoang\\UnrealProjects\\SimpleShooter_5_1\\.vscode\\compileCommands_SimpleShooter_5_1\\SimpleShooter_5_1.255.rsp"
+		],
+		"directory": "E:\\Hoang\\Unreal\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Hoang\\UnrealProjects\\SimpleShooter_5_1\\Source\\SimpleShooter_5_1\\SimpleShooter_5_1GameModeBase.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Hoang\\UnrealProjects\\SimpleShooter_5_1\\.vscode\\compileCommands_SimpleShooter_5_1\\SimpleShooter_5_1.255.rsp"
+		],
+		"directory": "E:\\Hoang\\Unreal\\UE_5.1\\Engine\\Source"
+	}
+]
